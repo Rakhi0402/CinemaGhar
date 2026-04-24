@@ -26,11 +26,11 @@
 
 #### ScreenShot 
 ![1](Screenshots/6.png)
-![2](https://github.com/imriyakri/CinemaGhar-Dev/blob/main/Screenshots/4.png)
-![3](https://github.com/imriyakri/CinemaGhar-Dev/blob/main/Screenshots/2.png)
-![4](https://github.com/imriyakri/CinemaGhar-Dev/blob/main/Screenshots/3.png)
-![5](https://github.com/imriyakri/CinemaGhar-Dev/blob/main/Screenshots/1.png)
-![6](https://github.com/imriyakri/CinemaGhar-Dev/blob/main/Screenshots/5.png)
+![2](Screenshots/4.png)
+![3](Screenshots/2.png)
+![4](Screenshots/3.png)
+![5](Screenshots/1.png)
+![6](Screenshots/5.png)
 
 
 
