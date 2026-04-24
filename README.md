@@ -25,7 +25,7 @@
 5. start the client side by running "npm start" command in client directory.
 
 #### ScreenShot 
-![1](https://github.com/imriyakri/CinemaGhar-Dev/blob/main/Screenshots/6.png)
+![1](Screenshots/6.png)
 ![2](https://github.com/imriyakri/CinemaGhar-Dev/blob/main/Screenshots/4.png)
 ![3](https://github.com/imriyakri/CinemaGhar-Dev/blob/main/Screenshots/2.png)
 ![4](https://github.com/imriyakri/CinemaGhar-Dev/blob/main/Screenshots/3.png)
